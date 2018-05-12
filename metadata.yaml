@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2034
     wikipedia: http://en.wikipedia.org/wiki/H._Irving_Hancock
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20789#The-Grammar-School-Boys-Snowboundor-Dick--amp--Co.-at-Winter-Sports
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2007-03-10'
 gutenberg_type: Text
